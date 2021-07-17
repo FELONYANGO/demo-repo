@@ -1,4 +1,4 @@
 #DEMO
 
-#the general github oractise
+#the general github practise
 
